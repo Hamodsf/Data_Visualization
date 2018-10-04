@@ -1,6 +1,6 @@
 Data Viz of PsychologistsToday
 
-Team Members: Vish, David, Karthik and Hamod
+Team Members: Vish, David, Karthik and Mohammad
 
 Topic or Project Description:
 Data Viz of the Psychologists
